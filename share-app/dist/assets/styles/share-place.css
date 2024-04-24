@@ -13,15 +13,17 @@ input {
   font: inherit;
   padding: 0.15rem 0.25rem;
   border: 1px solid #ccc;
-  font-size: 3rem;
+  font-size: 1rem;
   text-align: center;
   color: #696969;
+  height: 2rem;
 }
 
 input:focus {
   outline: none;
   background: #efe3ff;
   border-color: #36007c;
+  color: black;
 }
 
 #selected-place {
